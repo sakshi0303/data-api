@@ -1,0 +1,5 @@
+{
+    "namespace": "dataset1",
+    "content": "[ { \"name\": \"John\", \"age\": 44, \"cars\": [ \"Ford\", \"Nissan\", \"Fiat\" ] }, { \"name\": \"John1\", \"age\": 30, \"cars\": [ \"Ford\", \"BMW\", \"Fiat\" ] } ]",
+    "fileName": "part0.json"
+}
