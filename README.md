@@ -9,8 +9,6 @@ Approach to test the service:
 AWS cli setup - https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
 1. https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html 
 2. aws configure
-AWS Access Key ID [None]: AKIASNYAX3KTWYICSIWD
-AWS Secret Access Key [None]: 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
 Default region name [None]: us-west-2
 Default output format [None]: json
 3. Test by running - aws s3 ls
